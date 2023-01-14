@@ -1,8 +1,8 @@
 # Paul Hathaway (pawlh)
 
 <div align="center">
-    <img width="" src="https://gh-stats.pawlh.dev/api?username=pawlh&count_private=true&show_icons=true&card_width=200&custom_title=My stats" alt="Language used in my public repos" />
-    <img width="" src="https://gh-stats.pawlh.dev/api/top-langs/?username=pawlh&langs_count=6&layout=compact&card_width=200&custom_title=Public%20repos" alt="Language used in my public repos" />
+    <img width="" src="https://gh-stats.pawlh.dev/api?username=pawlh&count_private=true&show_icons=true&card_width=350&custom_title=My%20stats" alt="Paul Hathaway's public stats" />
+    <img width="" src="https://gh-stats.pawlh.dev/api/top-langs/?username=pawlh&langs_count=6&layout=compact&card_width=200&custom_title=Public%20repos" alt="Language used in Paul Hathaway's public repos" />
   <br />
   <br />
 </div>
