@@ -1,20 +1,13 @@
 # Paul Hathaway (pawlh)
 
 <div align="center">
-  <img width="" src="https://gh-stats.pawlh.dev/api?username=pawlh&count_private=true&show_icons=true&card_width=300" alt="Language used in my public repos" />
+    <img width="" src="https://gh-stats.pawlh.dev/api?username=pawlh&count_private=true&show_icons=true&card_width=150&custom_title=My stats" alt="Language used in my public repos" />
+    <img width="" src="https://gh-stats.pawlh.dev/api/top-langs/?username=pawlh&langs_count=6&layout=compact&card_width=200&custom_title=Public%20repos" alt="Language used in my public repos" />
   <br />
   <br />
 </div>
 
 I am studying Computer Science at BYU in Utah. I am interested in web applications, decentralized applications via self-hosting, and pretty much any exciting technology that comes my way.
-
-<div align="center">
-  <img width="" src="https://gh-stats.pawlh.dev/api/top-langs/?username=pawlh&langs_count=6&layout=compact&hide_title=1&card_width=199" alt="Language used in my public repos" />
-  <br />
-  <small>Breakdown of languages used in my public repos</small>
-  <br />
-  <br />
-</div>
 
 ## Skills
 
