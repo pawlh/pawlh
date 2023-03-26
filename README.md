@@ -21,17 +21,19 @@ I am studying Computer Science at BYU in Utah. I am interested in web applicatio
 
 ## Hobby Projects
 
+### Dime - https://github.com/pawlh/dime
+
+![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=pawlh&repo=dime&theme=transparent)
+  
+  Dime is a self-hostable web application that allows users to track their spending. It is built with Go in the backend and VueJS in the frontend. Users can upload .csv files from their bank and view their spending in a variety of ways. Budgeting goals can be set and tracked. Users can also create and manage multiple accounts.
+
+  This is in early development and is some time away from having many of the basic features implemented.
+
+### GFly - https://github.com/pawlh/gfly
+
 ![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=pawlh&repo=gfly&theme=transparent)
 
   Driven by Go in the backend and React in the front, GFly allows users to upload their Google Location History JSON files and compare them to other users. Inspired by [Strava Flybys](https://labs.strava.com/flyby/). Currently in development...
-  
-  GitHub Link: https://github.com/pawlh/gfly
-
-![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=pawlh&repo=less-watch-compile&theme=transparent)
-  
-  A simple npm package that watches a directory for changes to `.less` files and compiles them to `.css` files. This was my first contribution to npm and my first open source project.
-  
-  GitHub Link: https://github.com/pawlh/less-watch-compile
 
 ## Contact
 
