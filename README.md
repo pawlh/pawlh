@@ -7,7 +7,7 @@
   <br />
 </div>
 
-I am studying Computer Science at BYU in Utah. I am interested in web applications, decentralized applications via self-hosting, and pretty much any exciting technology that comes my way.
+I am studying Computer Science at BYU in Utah. I am interested in web applications, self-hosting, and pretty much any exciting technology that comes my way.
 
 ## Skills
 
