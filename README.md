@@ -19,21 +19,27 @@ I am studying Computer Science at BYU in Utah. I am interested in web applicatio
 - Ruby (especially Rails)
 - Java
 
-## Hobby Projects
+## Projects
+
+## BYU CS 240 Autograder - https://github.com/softwareconstruction240/autograder
+
+![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=softwareconstruction240&repo=autograder&theme=transparent)
+
+I created this autograder for a Chess project that is part of a Computer Science course at BYU. It is now actively used by all students and instructors.
 
 ### Dime - https://github.com/pawlh/dime
 
 ![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=pawlh&repo=dime&theme=transparent)
   
-  Dime is a self-hostable web application that allows users to track their spending. It is built with Go in the backend and VueJS in the frontend. Users can upload .csv files from their bank and view their spending in a variety of ways. Budgeting goals can be set and tracked. Users can also create and manage multiple accounts.
+Dime is a self-hostable web application that allows users to track their spending. It is built with Go in the backend and VueJS in the frontend. Users can upload .csv files from their bank and view their spending in a variety of ways. Budgeting goals can be set and tracked. Users can also create and manage multiple accounts.
 
-  This is in early development and is some time away from having many of the basic features implemented.
+This is in early development and is some time away from having many of the basic features implemented.
 
 ### GFly - https://github.com/pawlh/gfly
 
 ![Customized Card](https://gh-stats.pawlh.dev/api/pin?username=pawlh&repo=gfly&theme=transparent)
 
-  Driven by Go in the backend and React in the front, GFly allows users to upload their Google Location History JSON files and compare them to other users. Inspired by [Strava Flybys](https://labs.strava.com/flyby/). Currently in development...
+Driven by Go in the backend and React in the front, GFly allows users to upload their Google Location History JSON files and compare them to other users. Inspired by [Strava Flybys](https://labs.strava.com/flyby/). Currently in development...
 
 ## Contact
 
